@@ -1,2 +1,2 @@
 # exceltoMongodb
-Inserting the data into the MongoDB database by uploading excel. 
+Inserting data into MongoDB database by uploading excel with the help of multer and xlsx npm package.
